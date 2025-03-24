@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "Prostitution data 2010"
+date:   2025-03-24 17:30:00 +0100
+categories: jekyll update
+---
+
+So, these are crimes reported as concerning "prostitution" in 2010 i San Francisco.
+
+<iframe src="/assets/html/prostitution_2010_cluster.html" width="800" height="600"></iframe>
