@@ -7,7 +7,7 @@
 * The format must be the classic *Magazine Genre* presented on a single web-page (see the Segel \& Heer paper for details).
 * The story should have a brief introduction to the dataset so new readers from outside the class can understand what's going on.
 * Your story should include three visualizations. Not more than three, not less than three (but multi-panel figures are OK). The figures should be one of each of the following types
-  - One time-series / bar chart (it's OK to use the "fancy" plot-typs like calendar plots or polar bar-charts if you think those help you tell the story.
+  - One time-series / bar chart (it's OK to use the "fancy" plot-typs like calendar plots or polar bar-charts if you think those help you tell the story.)
   - One map
   - One interactive visualization in Bokeh (Week 6)
 * **At a minimum, the Bokeh visualization should contain different data than the exercise we did for Week 6** (it's a plus if it's a new type of viz altogether). 

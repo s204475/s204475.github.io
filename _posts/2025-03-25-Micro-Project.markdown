@@ -6,3 +6,13 @@ categories: micro project
 ---
 
 This will have three different visualisations and tell a story of crime data
+
+
+# Time series
+
+# Map(s)
+
+# Bokeh
+
+
+# Text
