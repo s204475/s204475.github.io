@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "Latest update"
+date:   2025-03-25 7:00:00 +0100
+categories: jekyll update
+---
+
+This is just an update, nothing new. 
