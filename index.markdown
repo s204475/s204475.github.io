@@ -55,7 +55,7 @@ title: "Micro Project - Group 77"
     You can explore the data yourself using the controls at the bottom of the heatmap or by hovering and clicking on the areas-of-interest using the mouse.  
     </p>
   </div>
-  <div class="image-container" style="flex: 0 0 65%; max-width: 65%; display: flex; justify-content: center;">
+  <div class="image-container" style="flex: 1 1 65%; max-width: 65%; display: flex; justify-content: center;">
     <iframe src="/assets/html/A2_san_francisco_heatmapwithtime.html" 
             style="border:none; width: 100%; height: 600px; max-width: 100%; display: block;"></iframe>
   </div>
@@ -68,7 +68,7 @@ title: "Micro Project - Group 77"
   <h2>Crime Clock: When Drug Offenses Peak in San Francisco</h2>
 </div>
 
-<div class="narrative-container" style="display: flex; flex-wrap: wrap; align-items: flex-start; justify-content: space-between; width: 100%; max-width: 1200px; margin: 0 auto; overflow: hidden;">
+<div class="narrative-container" style="display: flex; align-items: flex-start; justify-content: space-between; width: 100%; max-width: 1200px; margin: 0 auto; overflow: hidden;">
   <div class="image-container" style="flex: 0 0 65%; max-width: 65%; display: flex; justify-content: center;">
     <iframe src="/assets/html/Narcotic 24h by district 4.html" style="border: 1px solid transparent; width: 1000px; height: 600px; display: block; flex-grow: 1;"></iframe>
   </div>
