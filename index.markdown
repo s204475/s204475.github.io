@@ -70,7 +70,7 @@ title: "Micro Project - Group 77"
 
 <div class="narrative-container" style="display: flex; align-items: flex-start; justify-content: space-between; width: 100%; max-width: 1200px; margin: 0 auto; overflow: hidden;">
   <div class="image-container" style="flex: 0 0 65%; max-width: 65%; display: flex; justify-content: center;">
-    <iframe src="/assets/html/Narcotic 24h by district 4.html" style="border: 3px solid red; width: 1000px; height: 600px; display: block; flex-grow: 1;"></iframe>
+    <iframe src="/assets/html/Narcotic 24h by district 4.html" style="border: 1px solid transparent; width: 1000px; height: 600px; display: block; flex-grow: 1;"></iframe>
   </div>
   <div class="text-container" style="flex: 0 0 35%; max-width: 35%; text-align: justify; word-break: break-word; overflow-wrap: break-word; hyphens: auto; min-width: 300px;">
     <h2>Understanding the Data</h2>
