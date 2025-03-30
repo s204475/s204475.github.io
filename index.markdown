@@ -36,17 +36,18 @@ San Francisco's Battle Against Drug Crimes: A Yearly Overview
 Hotspots of Drug Activity: A District-Wise Heat Map
 </div>
 
-<div class="narrative-container" style="display: flex; align-items: center; justify-content: space-between; gap: 20px;">
-  <div class="text-container" style="max-width: 600px; text-align: justify; flex: 1; word-break: break-word; overflow-wrap: break-word; hyphens: auto;">
+<div class="narrative-container" style="display: flex; align-items: center; justify-content: center; gap: 20px; width: 100%; max-width: 1200px; margin: 0 auto; flex-wrap: wrap;">
+  <div class="text-container" style="max-width: 500px; flex: 1; text-align: justify; word-break: break-word; overflow-wrap: break-word; hyphens: auto; min-width: 300px;">
     <h2>Explore the timeline</h2>
-    <p>This heat map provides a striking visual representation of drug/narcotic crime hotspots across San Francisco, overlaid with the boundaries of police districts. The intensity of the heat map colors indicates the concentration of incidents, with brighter areas signifying higher crime rates. By overlaying police district borders, we can see which areas are most affected and how law enforcement resources might be allocated to address these critical zones. Notice the change over the years:
+    <p>
+      This heat map provides a striking visual representation of drug/narcotic crime hotspots across San Francisco, overlaid with the boundaries of police districts. The intensity of the heat map colors indicates the concentration of incidents, with brighter areas signifying higher crime rates. By overlaying police district borders, we can see which areas are most affected and how law enforcement resources might be allocated to address these critical zones. Notice the change over the years:
     
     ...
-    
+      
     </p>
   </div>
-  <div class="image-container">
-    <iframe src="/assets/html/A2_san_francisco_heatmapwithtime.html" width="100%" height="600" style="max-width: 1000px; display: block; margin: 0 auto;"></iframe>
+  <div class="image-container" style="flex: 2; min-width: 400px; max-width: 1000px; width: 100%;">
+    <iframe src="/assets/html/A2_san_francisco_heatmapwithtime.html" style="border:none; width: 100%; height: 600px; max-width: 1000px;"></iframe>
   </div>
 </div>
 
