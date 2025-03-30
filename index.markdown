@@ -56,7 +56,7 @@ Hotspots of Drug Activity: A District-Wise Heat Map
   </div>
   <div class="image-container" style="flex: 2; min-width: 400px; max-width: 100%; width: 100%; display: flex; justify-content: center;">
     <iframe src="/assets/html/A2_san_francisco_heatmapwithtime.html" 
-            style="border:none; width: 100%; height: 600px; max-width: 1000px; display: block;"></iframe>
+            style="border:none; width: 100%; height: 600px; max-width: 1200px; display: block;"></iframe>
   </div>
 </div>
 
