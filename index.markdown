@@ -15,7 +15,7 @@ Drugs and naroctics in San Francisco
 ---
 
 <div class = "figure-header" style="text-align: center; margin-bottom: 20px;">
-San Francisco's Battle Against Drug Crimes: A Yearly Overview
+  <h2>San Francisco's Battle Against Drug Crimes: A Yearly Overview</h2>
 </div>
 
 <div class="narrative-container" style="display: flex; align-items: flex-start; justify-content: space-between; width: 100%; max-width: 1200px; margin: 0 auto; overflow: hidden;">
@@ -37,8 +37,8 @@ San Francisco's Battle Against Drug Crimes: A Yearly Overview
 
 
 ---
-<div class = "figure-header" >
-Hotspots of Drug Activity: A District-Wise Heat Map
+<div class = "figure-header" style="text-align: center; margin-bottom: 20px;">
+  <h2>Hotspots of Drug Activity: A District-Wise Heat Map</h2>
 </div>
 
 <div class="narrative-container" style="display: flex; align-items: flex-start; justify-content: space-between; width: 100%; max-width: 1200px; margin: 0 auto; overflow: hidden;">
@@ -52,7 +52,7 @@ Hotspots of Drug Activity: A District-Wise Heat Map
 
   <br><br>
 
-    You can explore the data yourself using the controls at the bottom of the heatmap or zooming in on areas-of-interest using the mouse.  
+    You can explore the data yourself using the controls at the bottom of the heatmap or by hovering and clicking on the areas-of-interest using the mouse.  
     </p>
   </div>
   <div class="image-container" style="flex: 0 0 65%; max-width: 65%; display: flex; justify-content: center;">
@@ -64,8 +64,8 @@ Hotspots of Drug Activity: A District-Wise Heat Map
 
 ---
 
-<div class = "figure-header" >
-Crime Clock: When Drug Offenses Peak in San Francisco
+<div class = "figure-header" style="text-align: center; margin-bottom: 20px;">
+  <h2>Crime Clock: When Drug Offenses Peak in San Francisco</h2>
 </div>
 
 <div class="narrative-container" style="display: flex; align-items: flex-start; justify-content: space-between; width: 100%; max-width: 1200px; margin: 0 auto; overflow: hidden;">
