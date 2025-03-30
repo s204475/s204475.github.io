@@ -20,7 +20,7 @@ San Francisco's Battle Against Drug Crimes: A Yearly Overview
 
 <div class="narrative-container" style="display: flex; align-items: flex-start; justify-content: space-between; width: 100%; max-width: 1200px; margin: 0 auto; overflow: hidden;">
   <div class="image-container">
-    <img src="/assets/figures/drug time series.png" alt="Figure 1" style="border:none; width: 100%; height: 600px; max-width: 100%; display: block;">
+    <img src="/assets/figures/drug time series.png" alt="Figure 1" style="border:none; width: 100%; max-width: 100%; display: block;">
   </div>
   
   <div class="text-container" style="flex: 0 0 35%; max-width: 35%; text-align: justify; word-break: break-word; overflow-wrap: break-word; hyphens: auto; min-width: 300px;">
