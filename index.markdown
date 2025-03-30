@@ -54,7 +54,7 @@ Hotspots of Drug Activity: A District-Wise Heat Map
     You can explore the data yourself using the controls at the bottom of the heatmap or zooming in on areas-of-interest using the mouse.  
     </p>
   </div>
-  <div class="image-container" style="flex: 2; min-width: 400px; max-width: 1000px; width: 100%;">
+  <div class="image-container" style="flex: 2; width: 100%;">
     <iframe src="/assets/html/A2_san_francisco_heatmapwithtime.html" style="border:none; width: 100%; height: 600px; max-width: 1000px;"></iframe>
   </div>
 </div>
