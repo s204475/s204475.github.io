@@ -19,7 +19,7 @@ title: "Micro Project - Group 77"
 </div>
 
 <div class="narrative-container" style="display: flex; align-items: flex-start; justify-content: space-between; width: 100%; max-width: 1200px; margin: 0 auto; overflow: hidden;">
-  <div class="image-container">
+  <div class="image-container" style="flex: 0 0 65%; max-width: 65%; display: flex; justify-content: center;">
     <img src="/assets/figures/drug time series.png" alt="Figure 1" style="border:none; width: 100%; max-width: 100%; display: block;">
   </div>
   
