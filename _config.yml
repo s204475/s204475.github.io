@@ -22,14 +22,13 @@ title: Project site for Group 66
 email: s204475@dtu.dk
 description: >- # this means to ignore newlines until "baseurl:"
   This is the project site for Group 66 in the course 02806 Social Data Visualisation at DTU.
-baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: "" # the subpath of your site
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  s204475
 
 # Build settings
 theme: minima
-plugins:
-  - jekyll-feed
+plugins: []
 
 
 
