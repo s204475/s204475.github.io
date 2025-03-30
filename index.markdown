@@ -19,11 +19,11 @@ title: "Micro Project - Group 77"
 </div>
 
 <div class="narrative-container" style="display: flex; align-items: flex-start; justify-content: space-between; width: 100%; max-width: 1200px; margin: 0 auto; overflow: hidden;">
-  <div class="image-container" style="flex: 1 1 65%; max-width: 65%; display: flex; justify-content: center;">
+  <div class="image-container" style="flex: 1 1 65%; min-width: 65%; max-width: 65%; display: flex; justify-content: center;">
     <img src="/assets/figures/drug time series.png" alt="Figure 1" style="border:none; width: 100%; max-width: 100%; display: block;">
   </div>
   
-  <div class="text-container" style="flex: 1 1 35%; max-width: 35%; text-align: justify; word-break: break-word; overflow-wrap: break-word; hyphens: auto; min-width: 300px;">
+  <div class="text-container" style="flex: 1 1 35%; min-width: 35%; max-width: 35%; text-align: justify; word-break: break-word; overflow-wrap: break-word; hyphens: auto; min-width: 300px;">
     <h2>Understanding the Data</h2>
     <p>Over the years, San Francisco has faced a fluctuating battle against drug-related crimes. This bar chart vividly illustrates the annual counts of drug/narcotic crimes, showcasing the peaks and troughs in the city's past and ongoing efforts to curb illegal drug activities. Each bar represents a year, with the height indicating the number of reported incidents. Notice how it has steadily dropped since 2009, but seems to be picking back up from 2022.
     
@@ -42,7 +42,7 @@ title: "Micro Project - Group 77"
 </div>
 
 <div class="narrative-container" style="display: flex; align-items: flex-start; justify-content: space-between; width: 100%; max-width: 1200px; margin: 0 auto; overflow: hidden;">
-  <div class="text-container" style="flex: 1 1 35%; max-width: 35%; text-align: justify; word-break: break-word; overflow-wrap: break-word; hyphens: auto; min-width: 300px;">
+  <div class="text-container" style="flex: 1 1 35%; min-width: 35%; max-width: 35%; text-align: justify; word-break: break-word; overflow-wrap: break-word; hyphens: auto; min-width: 300px;">
     <h2>Explore the timeline</h2>
     <p>This heat map provides a striking visual representation of drug/narcotic crime hotspots across San Francisco, overlaid with the boundaries of police districts. The size of the red areas of the heat map colors indicates the concentration of incidents, with larger areas signifying more crime occurances. By overlaying police district borders, we can see which areas are most affected and how law enforcement resources might have been be allocated to address these critical zones. 
 
@@ -55,7 +55,7 @@ title: "Micro Project - Group 77"
     You can explore the data yourself using the controls at the bottom of the heatmap or by hovering and clicking on the areas-of-interest using the mouse.  
     </p>
   </div>
-  <div class="image-container" style="flex: 1 1 65%; max-width: 65%; display: flex; justify-content: center;">
+  <div class="image-container" style="flex: 1 1 65%; min-width: 65%; max-width: 65%; display: flex; justify-content: center;">
     <iframe src="/assets/html/A2_san_francisco_heatmapwithtime.html" 
             style="border:none; width: 100%; height: 600px; max-width: 100%; display: block;"></iframe>
   </div>
