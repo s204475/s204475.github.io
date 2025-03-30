@@ -40,8 +40,8 @@ San Francisco's Battle Against Drug Crimes: A Yearly Overview
 Hotspots of Drug Activity: A District-Wise Heat Map
 </div>
 
-<div class="narrative-container" style="display: flex; align-items: center; justify-content: center; gap: 20px; width: 100%; margin: 0 auto; flex-wrap: wrap;">
-  <div class="text-container" style="max-width: 500px; flex: 1; text-align: justify; word-break: break-word; overflow-wrap: break-word; hyphens: auto; min-width: 300px;">
+<div class="narrative-container" style="display: flex; align-items: center; justify-content: center; gap: 20px; width: 100%; max-width: 1200px; margin: 0 auto; flex-wrap: wrap; overflow: hidden;">
+  <div class="text-container" style="max-width: 600px; flex: 1; text-align: justify; word-break: break-word; overflow-wrap: break-word; hyphens: auto; min-width: 300px;">
     <h2>Explore the timeline</h2>
     <p>This heat map provides a striking visual representation of drug/narcotic crime hotspots across San Francisco, overlaid with the boundaries of police districts. The size of the red areas of the heat map colors indicates the concentration of incidents, with larger areas signifying more crime occurances. By overlaying police district borders, we can see which areas are most affected and how law enforcement resources might have been be allocated to address these critical zones. 
 
@@ -54,8 +54,9 @@ Hotspots of Drug Activity: A District-Wise Heat Map
     You can explore the data yourself using the controls at the bottom of the heatmap or zooming in on areas-of-interest using the mouse.  
     </p>
   </div>
-  <div class="image-container" style="flex: 2; width: 100%;">
-    <iframe src="/assets/html/A2_san_francisco_heatmapwithtime.html" style="border:none; width: 100%; height: 600px; max-width: 1000px;"></iframe>
+  <div class="image-container" style="flex: 2; min-width: 400px; max-width: 100%; width: 100%; display: flex; justify-content: center;">
+    <iframe src="/assets/html/A2_san_francisco_heatmapwithtime.html" 
+            style="border:none; width: 100%; height: 600px; max-width: 1000px; display: block;"></iframe>
   </div>
 </div>
 
