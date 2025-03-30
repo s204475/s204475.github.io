@@ -6,7 +6,7 @@ title: "Micro Project - Group 77"
 <div class = "header" >
 Drugs and naroctics in San Francisco
 </div>
-<div class="introduction" markdown="1" style="max-width: 1000px; margin: 0 auto; text-align: justify; text-justify: inter-word;">
+<div class="introduction" markdown="1" style="max-width: 1200px; margin: 0 auto; text-align: justify; text-justify: inter-word;">
   Like many states in the United States, San Fransisco has had its issues with handling crime related to drugs and narcotics over the years. <br>
   The following is a deep dive into how these crime reports have evolved over the years between 2003 to 2025. 
   The figures and statements are made based on information extracted from San Francisco Open Data <a href="https://data.sfgov.org/Public-Safety/Police-Department-Incident-Reports-2018-to-Present/wg3w-h783/about_data">[DataSF, 2015]</a> and <a href="https://data.sfgov.org/Public-Safety/Police-Department-Incident-Reports-Historical-2003/tmnf-yvry/about_data">[DataSF, 2024]</a> 
@@ -14,7 +14,7 @@ Drugs and naroctics in San Francisco
 
 ---
 
-<div class = "figure-header" >
+<div class = "figure-header" style="text-align: center; margin-bottom: 20px;">
 San Francisco's Battle Against Drug Crimes: A Yearly Overview
 </div>
 
