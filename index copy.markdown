@@ -40,22 +40,22 @@ San Francisco's Battle Against Drug Crimes: A Yearly Overview
 Hotspots of Drug Activity: A District-Wise Heat Map
 </div>
 
-<div class="narrative-container" style="display: flex; align-items: center; justify-content: center; gap: 20px; width: 100%; max-width: 1200px; margin: 0 auto; flex-wrap: wrap;">
-  <div class="text-container" style="max-width: 500px; flex: 1; text-align: justify; word-break: break-word; overflow-wrap: break-word; hyphens: auto; min-width: 300px;">
+<div class="narrative-container">
+  <div class="text-container">
     <h2>Explore the timeline</h2>
     <p>This heat map provides a striking visual representation of drug/narcotic crime hotspots across San Francisco, overlaid with the boundaries of police districts. The size of the red areas of the heat map colors indicates the concentration of incidents, with larger areas signifying more crime occurances. By overlaying police district borders, we can see which areas are most affected and how law enforcement resources might have been be allocated to address these critical zones. 
 
-  <br><br>
+    <br><br>
 
     What is interesting, is the development over the years. Notice how the in 2003, the crimes are spread out to all of Eastern San Fransisco with Northen, Central, Tenderloin, Southern and Mission being almost one big hotspot. Then as we progress through the years, the hotspot gets much smaller almost only covering Tenderloin (while there still being several singular crimes spread out in all of San Fransisco). So, while narcotics crimes are still obviously a problem, the clear majority of them are contained in a rather concise area. Tenderloin having issues with drug-related crimes is a well-known fact that the district has been combatting for many years <a href="https://edition.cnn.com/2023/09/03/us/san-francisco-tenderloin-drug-market/index.html">[CNN, 2023]</a>. 
 
-  <br><br>
+    <br><br>
 
     You can explore the data yourself using the controls at the bottom of the heatmap or zooming in on areas-of-interest using the mouse.  
     </p>
   </div>
-  <div class="image-container" style="flex: 2; min-width: 400px; max-width: 1000px; width: 100%;">
-    <iframe src="/assets/html/A2_san_francisco_heatmapwithtime.html" style="border:none; width: 100%; height: 600px; max-width: 1000px;"></iframe>
+  <div class="image-container">
+    <iframe src="/assets/html/A2_san_francisco_heatmapwithtime.html" width="1000" height="600" style="border:none;"></iframe>
   </div>
 </div>
 
@@ -74,7 +74,8 @@ Crime Clock: When Drug Offenses Peak in San Francisco
     <h2>Understanding the Data</h2>
     <p>Ever wondered when drug-related crimes are most likely to occur? This interactive plot breaks down the number of drug/narcotic crimes by each hour of the day. This allows us to delve into the daily rhythms of drug crimes. Notice how much the day of the week actually affects crime rates. It is clear that the weekend sees less overall reports compared to weekdays - except for 5am where very little crime seems to occur at all no matter the day. It is interesting to see that even drug crimes seems to somewhat take the weekends off. For buglaries/theft it would make sense to see less crime over weekends, as people are home and harder to steal from, but the use of narcotics should not have this limitation. However, it is important to note that this data reflects reports of crimes and not the actual occurances. For a crime to be reported it needs to be witnessed, and if people are doing drugs at home over the weekend that is not reflected in this data. 
 
-  <br><br>
+    <br> <br>
 
     You can explore this data yourself by toggling the various police districts in San Francisco. Each district is represented by a different color, with overlapping bars indicating the intensity of incidents. The hover tool provides additional context, showing the exact count of crimes for each hour and district.
-
+  </div>
+</div>
