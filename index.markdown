@@ -41,8 +41,8 @@ title: "Micro Project - Group 77"
   <h2>Hotspots of Drug Activity: A District-Wise Heat Map</h2>
 </div>
 
-<div class="narrative-container" style="display: flex; flex-wrap: wrap; align-items: flex-start; justify-content: space-between; width: 100%; max-width: 1200px; margin: 0 auto; overflow: hidden;">
-  <div class="text-container" style="flex: 1 1 35%; max-width: 35%; min-width: 250px; text-align: justify; word-break: break-word; overflow-wrap: break-word; hyphens: auto;">
+<div class="narrative-container" style="display: flex; align-items: flex-start; justify-content: space-between; width: 100%; max-width: 1200px; margin: 0 auto; overflow: hidden;">
+  <div class="text-container" style="flex: 0 0 35%; max-width: 35%; text-align: justify; word-break: break-word; overflow-wrap: break-word; hyphens: auto; min-width: 300px;">
     <h2>Explore the timeline</h2>
     <p>This heat map provides a striking visual representation of drug/narcotic crime hotspots across San Francisco, overlaid with the boundaries of police districts. The size of the red areas of the heat map colors indicates the concentration of incidents, with larger areas signifying more crime occurances. By overlaying police district borders, we can see which areas are most affected and how law enforcement resources might have been be allocated to address these critical zones. 
 
