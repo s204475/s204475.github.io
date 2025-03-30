@@ -20,7 +20,7 @@ There could be numerous causs for the steady droprate. Crime overall has been st
 
 ### Figure 2: Heat Map of Drug/Narcotic Crimes with Police District Overlay
 
-<iframe src="/assets/html/A2_san_francisco_heatmapwithtime.html" width="700" height="400"></iframe>
+<iframe src="/assets/html/A2_san_francisco_heatmapwithtime.html" width="1000" height="600"></iframe>
 
 **Hotspots of Drug Activity: A District-Wise Heat Map**
 
