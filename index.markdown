@@ -68,11 +68,11 @@ Hotspots of Drug Activity: A District-Wise Heat Map
 Crime Clock: When Drug Offenses Peak in San Francisco
 </div>
 
-<div class="narrative-container">
+<div class="narrative-container" style="display: flex; align-items: flex-start; justify-content: space-between; width: 100%; max-width: 1200px; margin: 0 auto; overflow: hidden;">
   <div class="image-container">
-    <iframe src="/assets/html/Narcotic 24h by district 4.html" width="900" height="500" style="border:none;"></iframe>
+    <iframe src="/assets/html/Narcotic 24h by district 4.html" style="border:none; width: 100%; max-width: 100%; display: block;"></iframe>
   </div>
-  <div class="text-container">
+  <div class="text-container" style="flex: 0 0 35%; max-width: 35%; text-align: justify; word-break: break-word; overflow-wrap: break-word; hyphens: auto; min-width: 300px;">
     <h2>Understanding the Data</h2>
     <p>Ever wondered when drug-related crimes are most likely to occur? This interactive plot breaks down the number of drug/narcotic crimes by each hour of the day. This allows us to delve into the daily rhythms of drug crimes. Notice how much the day of the week actually affects crime rates. It is clear that the weekend sees less overall reports compared to weekdays - except for 5am where very little crime seems to occur at all no matter the day. It is interesting to see that even drug crimes seems to somewhat take the weekends off. For buglaries/theft it would make sense to see less crime over weekends, as people are home and harder to steal from, but the use of narcotics should not have this limitation. However, it is important to note that this data reflects reports of crimes and not the actual occurances. For a crime to be reported it needs to be witnessed, and if people are doing drugs at home over the weekend that is not reflected in this data. 
 
