@@ -36,8 +36,8 @@ San Francisco's Battle Against Drug Crimes: A Yearly Overview
 Hotspots of Drug Activity: A District-Wise Heat Map
 </div>
 
-<div class="narrative-container">
-  <div class="text-container" style=margin: 0 auto; text-align: justify; text-justify: inter-word;">
+<div class="narrative-container" style="display: flex; align-items: center; justify-content: space-between; gap: 20px;">
+  <div class="text-container" style="max-width: 600px; text-align: justify; flex: 1;">
     <h2>Explore the timeline</h2>
     <p>This heat map provides a striking visual representation of drug/narcotic crime hotspots across San Francisco, overlaid with the boundaries of police districts. The intensity of the heat map colors indicates the concentration of incidents, with brighter areas signifying higher crime rates. By overlaying police district borders, we can see which areas are most affected and how law enforcement resources might be allocated to address these critical zones. Notice the change over the years:
     
