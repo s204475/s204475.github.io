@@ -7,7 +7,8 @@ title: "Micro Project - Group 77"
 Drugs and naroctics in San Francisco
 </div>
 <div class="introduction" markdown="1" style="max-width: 1000px; margin: 0 auto; text-align: justify; text-justify: inter-word;">
-Like many states, San Fransisco has had its issues with handling crime related to drugs and narcotics. The following is a deep dive into how crime reports have evolved over the years between 2003 to 2025. 
+  Like many states, San Fransisco has had its issues with handling crime related to drugs and narcotics. <br>
+  The following is a deep dive into how crime reports have evolved over the years between 2003 to 2025. 
 </div>
 
 ---
@@ -36,7 +37,7 @@ Hotspots of Drug Activity: A District-Wise Heat Map
 </div>
 
 <div class="narrative-container">
-  <div class="text-container">
+  <div class="text-container" style=margin: 0 auto; text-align: justify; text-justify: inter-word;">
     <h2>Explore the timeline</h2>
     <p>This heat map provides a striking visual representation of drug/narcotic crime hotspots across San Francisco, overlaid with the boundaries of police districts. The intensity of the heat map colors indicates the concentration of incidents, with brighter areas signifying higher crime rates. By overlaying police district borders, we can see which areas are most affected and how law enforcement resources might be allocated to address these critical zones. Notice the change over the years:
     
