@@ -18,11 +18,12 @@ Drugs and naroctics in San Francisco
 San Francisco's Battle Against Drug Crimes: A Yearly Overview
 </div>
 
-<div class="narrative-container">
+<div class="narrative-container" style="display: flex; align-items: flex-start; justify-content: space-between; width: 100%; max-width: 1200px; margin: 0 auto; overflow: hidden;">
   <div class="image-container">
-    <img src="/assets/figures/drug time series.png" alt="Figure 1">
+    <img src="/assets/figures/drug time series.png" alt="Figure 1" style="border:none; width: 100%; height: 600px; max-width: 100%; display: block;">
   </div>
-  <div class="text-container">
+  
+  <div class="text-container" style="flex: 0 0 35%; max-width: 35%; text-align: justify; word-break: break-word; overflow-wrap: break-word; hyphens: auto; min-width: 300px;">
     <h2>Understanding the Data</h2>
     <p>Over the years, San Francisco has faced a fluctuating battle against drug-related crimes. This bar chart vividly illustrates the annual counts of drug/narcotic crimes, showcasing the peaks and troughs in the city's past and ongoing efforts to curb illegal drug activities. Each bar represents a year, with the height indicating the number of reported incidents. Notice how it has steadily dropped since 2009, but seems to be picking back up from 2022.
     
@@ -40,7 +41,7 @@ San Francisco's Battle Against Drug Crimes: A Yearly Overview
 Hotspots of Drug Activity: A District-Wise Heat Map
 </div>
 
-<div class="narrative-container" style="display: flex; align-items: flex-start; justify-content: space-between; width: 100%; max-width: 1400px; margin: 0 auto; overflow: hidden;">
+<div class="narrative-container" style="display: flex; align-items: flex-start; justify-content: space-between; width: 100%; max-width: 1200px; margin: 0 auto; overflow: hidden;">
   <div class="text-container" style="flex: 0 0 35%; max-width: 35%; text-align: justify; word-break: break-word; overflow-wrap: break-word; hyphens: auto; min-width: 300px;">
     <h2>Explore the timeline</h2>
     <p>This heat map provides a striking visual representation of drug/narcotic crime hotspots across San Francisco, overlaid with the boundaries of police districts. The size of the red areas of the heat map colors indicates the concentration of incidents, with larger areas signifying more crime occurances. By overlaying police district borders, we can see which areas are most affected and how law enforcement resources might have been be allocated to address these critical zones. 
