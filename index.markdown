@@ -4,7 +4,7 @@ title: "Micro Project - Group 77"
 ---
 
 <div class = "header" >
-Drugs and naroctics in San Francisco
+  <h1>Drugs and naroctics in San Francisco</h1>
 </div>
 <div class="introduction" markdown="1" style="max-width: 1200px; margin: 0 auto; text-align: justify; text-justify: inter-word;">
   Like many states in the United States, San Fransisco has had its issues with handling crime related to drugs and narcotics over the years. <br>
