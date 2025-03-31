@@ -6,6 +6,11 @@ title: "Micro Project - Group 77"
 <div class = "header" >
   <h1>Drugs and Narcotics in San Francisco</h1>
 </div>
+
+<div class="project-members" style="text-align: center; margin-top: 10px; font-size: 1.1em;">
+  <p>Paula Barho (s242926) &nbsp;|&nbsp; Aleksandar Lukic (s194066) &nbsp;|&nbsp; Victor Gustav Harbo Rasmussen (s204475)</p>
+</div>
+
 <div class="introduction" markdown="1" style="max-width: 1200px; margin: 0 auto; text-align: justify; text-justify: inter-word;">
   Like many states in the United States, San Francisco has had its issues with handling crime related to drugs and narcotics over the years. <br>
   The following is a deep dive into how these crime reports have evolved over the years between 2003 to 2024. 
