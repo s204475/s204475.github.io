@@ -4,11 +4,11 @@ title: "Micro Project - Group 77"
 ---
 
 <div class = "header" >
-  <h1>Drugs and narcotics in San Francisco</h1>
+  <h1>Drugs and Narcotics in San Francisco</h1>
 </div>
 <div class="introduction" markdown="1" style="max-width: 1200px; margin: 0 auto; text-align: justify; text-justify: inter-word;">
   Like many states in the United States, San Francisco has had its issues with handling crime related to drugs and narcotics over the years. <br>
-  The following is a deep dive into how these crime reports have evolved over the years between 2003 to 2025. 
+  The following is a deep dive into how these crime reports have evolved over the years between 2003 to 2024. 
   The figures and statements are made based on information extracted from San Francisco Open Data <a href="https://data.sfgov.org/Public-Safety/Police-Department-Incident-Reports-2018-to-Present/wg3w-h783/about_data">[DataSF, 2015]</a> and <a href="https://data.sfgov.org/Public-Safety/Police-Department-Incident-Reports-Historical-2003/tmnf-yvry/about_data">[DataSF, 2024]</a> 
 </div>
 
@@ -23,18 +23,14 @@ title: "Micro Project - Group 77"
     <img src="/assets/figures/drug_crimes_by_year.png" alt="Figure 1" style="border:none; width: 100%; max-width: 100%; display: block;">
     <figcaption style="font-style: italic; font-size: 0.9em; margin-top: 5px;">Figure 1: Annual counts of drug/narcotic crimes in San Francisco in 2003-2024.</figcaption>
   </figure>
-  <!-- <div class="image-container" style="flex: 1 1 65%; min-width: 65%; max-width: 65%; display: flex; justify-content: center;">
-    <img src="/assets/figures/drug time series.png" alt="Figure 1" style="border:none; width: 100%; max-width: 100%; display: block;">
-  </div> -->
   
   <div class="text-container" style="flex: 1 1 35%; min-width: 35%; max-width: 35%; text-align: justify; word-break: break-word; overflow-wrap: break-word; hyphens: auto; min-width: 300px;">
     <h2>Understanding the Data</h2>
-    <p>Over the years, San Francisco has faced a fluctuating battle against drug-related crimes. This bar chart vividly illustrates the annual counts of drug/narcotic crimes, showcasing the peaks and troughs in the city's past and ongoing efforts to curb illegal drug activities. Each bar represents a year, with the height indicating the number of reported incidents. Notice how it has steadily dropped since 2009, but seems to be picking back up from 2022.
+    <p>Over the years, San Francisco has faced an up-and-down battle against drug-related crime. This bar chart vividly illustrates the annual incidents of drug/narcotics crimes, showing the highs and lows of the city's past and ongoing efforts to curb illegal drug activity. Each bar represents a year, with the height indicating the number of reported incidents. Note how the number of incidents has been steadily decreasing since 2009, but seems to increase again from 2022 onwards.
     
     <br> <br>
 
-    There could be numerous causes for the steady droprate. Crime overall has been steadily decreasing in San Francisco, but not as much as is reflected in drug/narcotics. Recreational cannabis was legalised in 2018 which would also account for a drop in marijuanna-related crimes
-    <a href="https://www.bbc.com/news/world-us-canada-42532776">[BBC, 2018]</a>. The spike seen in 2022 could reflect the national fentanyl crisis that America is facing which has hit San Francisco especially hard <a href="https://www.sfchronicle.com/projects/san-francisco-drug-overdose-deaths">[San Francisco Chronicle, 2025]</a>, but fentanyl deaths have been on the rise since 2016 <a href="https://www.cfr.org/backgrounder/fentanyl-and-us-opioid-epidemic">[Council of Foreign relations, 2025]</a>, so it should not only spike after 2022. However, the Corona epidemic could arguably also help explain the lower counts in the years 2019-2023 despite the fentanyl crisis.</p>
+    There could be numerous causes for the steady droprate. Crime overall has been steadily decreasing in San Francisco, but not as much as is reflected in drug/narcotics. Recreational cannabis was legalised in 2018 which would also account for a drop in marijuanna-related crimes <a href="https://www.bbc.com/news/world-us-canada-42532776">[BBC, 2018]</a>. The spike seen in 2022 could reflect the national fentanyl crisis facing America, which has hit San Francisco particularly hard <a href="https://www.sfchronicle.com/projects/san-francisco-drug-overdose-deaths">[San Francisco Chronicle, 2025]</a>, but fentanyl deaths have been on the rise since 2016 <a href="https://www.cfr.org/backgrounder/fentanyl-and-us-opioid-epidemic">[Council of Foreign Relations, 2025]</a>, so it should not only spike after 2022. However, the Corona epidemic could arguably also help explain the lower counts in the years 2020-2023 despite the fentanyl crisis.</p>
   </div>
 </div>
 
@@ -48,7 +44,7 @@ title: "Micro Project - Group 77"
 <div class="narrative-container" style="display: flex; align-items: flex-start; justify-content: space-between; width: 100%; max-width: 1200px; margin: 0 auto; overflow: hidden;">
   <div class="text-container" style="flex: 1 1 35%; min-width: 35%; max-width: 35%; text-align: justify; word-break: break-word; overflow-wrap: break-word; hyphens: auto; min-width: 300px;">
     <h2>Explore the timeline</h2>
-    <p>This heat map provides a striking visual representation of drug/narcotic crime hotspots across San Francisco, overlaid with the boundaries of police districts. The size of the red areas of the heat map colors indicates the concentration of incidents, with larger areas signifying more crime occurrences. By overlaying police district borders, we can see which areas are most affected and how law enforcement resources might have been allocated to address these critical zones. 
+    <p>This heat map provides a striking visual representation of drug/narcotics crime hotspots across San Francisco, overlaid with police district boundaries. The size of the red areas in the heat map colours indicates the concentration of incidents, with larger areas indicating more crime. By overlaying police district boundaries, we can see which areas are most affected and how law enforcement resources may have been allocated to address these critical areas.
 
   <br><br>
 
@@ -59,10 +55,6 @@ title: "Micro Project - Group 77"
     You can explore the data yourself using the controls at the bottom of the heatmap or by hovering and clicking on the areas-of-interest using the mouse.  
     </p>
   </div>
-  <!-- <div class="image-container" style="flex: 1 1 65%; min-width: 65%; max-width: 65%; display: flex; justify-content: center;">
-    <iframe src="/assets/html/A2_san_francisco_heatmapwithtime.html" 
-            style="border:none; width: 100%; height: 600px; max-width: 100%; display: block;"></iframe>
-  </div> -->
   <figure class="image-container" style="flex: 1 1 65%; min-width: 65%; max-width: 65%; display: flex; flex-direction: column; align-items: center; justify-content: center;">
     <iframe src="/assets/html/A2_san_francisco_heatmapwithtime.html" 
             style="border:none; width: 100%; height: 600px; max-width: 100%; display: block;"></iframe>
@@ -81,15 +73,8 @@ title: "Micro Project - Group 77"
 </div>
 
 <div class="narrative-container" style="display: flex; align-items: flex-start; justify-content: space-between; width: 100%; max-width: 1200px; margin: 0 auto; overflow: hidden;">
-  <!-- <div class="image-container" style="flex: 1 1 65%; min-width: 65%; max-width: 65%; display: flex; justify-content: center;">
-    <iframe src="/assets/html/Narcotic 24h by district 4.html" style="border: 1px solid transparent; width: 1000px; height: 600px; display: block; flex-grow: 1;"></iframe>
-  </div> -->
-  <!-- <figure class="image-container" style="flex: 1 1 65%; min-width: 65%; max-width: 65%; display: flex; justify-content: center; flex-direction: column; align-items: center;">
-    <iframe src="/assets/html/drug_crime_plot.html" style="border: 1px solid transparent; width: 1000px; height: 600px; display: block; flex-grow: 1;"></iframe>
-    <figcaption style="font-style: italic; font-size: 0.9em; margin-top: 5px;">Figure 3: Interactive bar plot of hourly incidents of drug/narcotic crimes per district in San Francisco. The multi-choice tool allows for the selection of specific years.</figcaption>
-  </figure> -->
   <figure class="image-container" style="flex: 1 1 65%; min-width: 65%; max-width: 65%; display: flex; justify-content: center; flex-direction: column; align-items: center;">
-    <iframe src="/assets/html/drug_crime_plot.html" style="border: 1px solid transparent; width: 100%; max-width: 1000px; height: 600px; transform: scale(0.8); transform-origin: top left; display: block; flex-grow: 1;"></iframe>
+    <iframe src="/assets/html/drug_crime_plot.html" style="border: 1px solid transparent; width: 100%; max-width: 1000px; height: 600px; display: block; flex-grow: 1;"></iframe> 
     <figcaption style="font-style: italic; font-size: 0.9em; margin-top: 5px; text-align: center;">
       Figure 3: Interactive bar plot of hourly incidents of drug/narcotic crimes per district in San Francisco. The multi-choice tool allows for the selection of specific years.
     </figcaption>
@@ -100,7 +85,7 @@ title: "Micro Project - Group 77"
 
   <br><br>
 
-    You can explore this data yourself by toggling the various police districts in San Francisco. Each district is represented by a different color, with overlapping bars indicating the intensity of incidents. The hover tool provides additional context, showing the exact count of crimes for each hour and district.
+    You can explore this data yourself by toggling the various police districts in San Francisco. Each district is represented by a different color, with overlapping bars indicating the intensity of incidents. The hover tool provides additional context, showing the exact count of crimes for each hour and district. Additionally, you can select different years in the multi-select tool on the left top of the figure. 
 
   </p>
 </div>
