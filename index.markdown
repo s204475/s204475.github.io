@@ -4,7 +4,7 @@ title: "Micro Project - Group 77"
 ---
 
 <div class = "header" >
-  <h1>Drugs and naroctics in San Francisco</h1>
+  <h1>Drugs and narcotics in San Francisco</h1>
 </div>
 <div class="introduction" markdown="1" style="max-width: 1200px; margin: 0 auto; text-align: justify; text-justify: inter-word;">
   Like many states in the United States, San Francisco has had its issues with handling crime related to drugs and narcotics over the years. <br>
@@ -89,7 +89,7 @@ title: "Micro Project - Group 77"
     <figcaption style="font-style: italic; font-size: 0.9em; margin-top: 5px;">Figure 3: Interactive bar plot of hourly incidents of drug/narcotic crimes per district in San Francisco. The multi-choice tool allows for the selection of specific years.</figcaption>
   </figure> -->
   <figure class="image-container" style="flex: 1 1 65%; min-width: 65%; max-width: 65%; display: flex; justify-content: center; flex-direction: column; align-items: center;">
-    <iframe src="/assets/html/drug_crime_plot.html" style="border: 1px solid transparent; width: 100%; max-width: 800px; height: 400px; display: block; flex-grow: 1;"></iframe>
+    <iframe src="/assets/html/drug_crime_plot.html" style="border: 1px solid transparent; width: 100%; max-width: 1000px; height: 600px; transform: scale(0.8); transform-origin: top left; display: block; flex-grow: 1;"></iframe>
     <figcaption style="font-style: italic; font-size: 0.9em; margin-top: 5px; text-align: center;">
       Figure 3: Interactive bar plot of hourly incidents of drug/narcotic crimes per district in San Francisco. The multi-choice tool allows for the selection of specific years.
     </figcaption>
