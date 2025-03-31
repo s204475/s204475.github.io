@@ -84,9 +84,15 @@ title: "Micro Project - Group 77"
   <!-- <div class="image-container" style="flex: 1 1 65%; min-width: 65%; max-width: 65%; display: flex; justify-content: center;">
     <iframe src="/assets/html/Narcotic 24h by district 4.html" style="border: 1px solid transparent; width: 1000px; height: 600px; display: block; flex-grow: 1;"></iframe>
   </div> -->
-  <figure class="image-container" style="flex: 1 1 65%; min-width: 65%; max-width: 65%; display: flex; justify-content: center; flex-direction: column; align-items: center;">
+  <!-- <figure class="image-container" style="flex: 1 1 65%; min-width: 65%; max-width: 65%; display: flex; justify-content: center; flex-direction: column; align-items: center;">
     <iframe src="/assets/html/drug_crime_plot.html" style="border: 1px solid transparent; width: 1000px; height: 600px; display: block; flex-grow: 1;"></iframe>
     <figcaption style="font-style: italic; font-size: 0.9em; margin-top: 5px;">Figure 3: Interactive bar plot of hourly incidents of drug/narcotic crimes per district in San Francisco. The multi-choice tool allows for the selection of specific years.</figcaption>
+  </figure> -->
+  <figure class="image-container" style="flex: 1 1 65%; min-width: 65%; max-width: 65%; display: flex; justify-content: center; flex-direction: column; align-items: center;">
+    <iframe src="/assets/html/drug_crime_plot.html" style="border: 1px solid transparent; width: 100%; max-width: 1000px; height: 600px; display: block; flex-grow: 1;"></iframe>
+    <figcaption style="font-style: italic; font-size: 0.9em; margin-top: 5px; text-align: center;">
+      Figure 3: Interactive bar plot of hourly incidents of drug/narcotic crimes per district in San Francisco. The multi-choice tool allows for the selection of specific years.
+    </figcaption>
   </figure>
   <div class="text-container" style="flex: 1 1 35%; min-width: 35%; max-width: 35%; text-align: justify; word-break: break-word; overflow-wrap: break-word; hyphens: auto; min-width: 300px;">
     <h2>Understanding the Data</h2>
@@ -98,8 +104,14 @@ title: "Micro Project - Group 77"
 
   </p>
 </div>
-<footer style="text-align: center; margin-top: 40px; font-size: 0.9em;">
+
+--- 
+
+<footer style="width: 100%; text-align: center; margin-top: 40px; font-size: 0.9em;">
   <p>
-    View the complete code on <a href="https://github.com/s204475/s204475.github.io" target="_blank">GitHub</a> and explore the notebook used for making the plots at <a href="https://github.com/AleksandarLukic96/02806_Social_Data/blob/main/notebooks/A2.ipynb" target="_blank">here</a>.
+    View the complete code on 
+    <a href="https://github.com/s204475/s204475.github.io" target="_blank">GitHub</a> 
+    and explore the notebook used for making the plots 
+    <a href="https://github.com/AleksandarLukic96/02806_Social_Data/blob/main/notebooks/A2.ipynb" target="_blank">here</a>.
   </p>
 </footer>
